@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Teste3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Assets\Scripts\Player.cs" Line="79" Column="34" />
+      <File FileName="Assets\Assets\Scripts\Tiro.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
